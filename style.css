@@ -1,0 +1,29 @@
+/* Google Fonts Imported */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/* Google Fonts added to body */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-purchase {
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 35px;
+    border: 0px;
+}
+
+
+.ash {
+    filter: grayscale(100%);
+}
+
+.theme-color {
+    color: #E76F51;
+}
+
+.star i {
+    color: #E77C40;
+}
+
